@@ -7,7 +7,7 @@ import './directory.styles.scss';
 class Directory extends React.Component {
     constructor() {
         super();
-
+        
         this.state = {
             sections: [{
                   title: 'hats',
@@ -41,7 +41,7 @@ class Directory extends React.Component {
                   id: 5,
                   linkUrl: ''
                 }]
-               
+
         }
     }
 
