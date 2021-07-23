@@ -33,8 +33,6 @@ unsubcribeFromAuth = null
               ...snapshot.data()
             }
           });
-
-          console.log(this.state);
         });
       }
 
