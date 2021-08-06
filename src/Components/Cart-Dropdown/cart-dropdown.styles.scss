@@ -10,6 +10,16 @@
     top: 80px;
     right: 0px;
     z-index: 5;
+    
+    
+    ::-webkit-scrollbar{
+        width: 4px;
+        background-color: transparent;
+        }
+        ::-webkit-scrollbar-thumb{
+        background-color: rgba(0,0,0,0.7);
+        border-radius: 20px;
+    }
 
     .cart-items {
         height: 240px;
