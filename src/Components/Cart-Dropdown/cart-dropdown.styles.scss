@@ -11,6 +11,10 @@
     right: 0px;
     z-index: 5;
     
+    .empty-message {
+        font-size: 18px;
+        margin: 50px auto;
+    }
     
     ::-webkit-scrollbar{
         width: 4px;
